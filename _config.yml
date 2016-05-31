@@ -1,4 +1,3 @@
-layout_spectrum: 0.9341446333564818
 typography_spectrum: 0.6581261537503451
 color:
   brandStrength: 0.008637767052277923
@@ -11,4 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.9341446333564818
+author:
+  name: Ryan Lewis
+  email: rlewis@completecontrolsinc.com
 name: Complete Controls Inc.
+title: We give you Complete Control
