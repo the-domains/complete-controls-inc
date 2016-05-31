@@ -10,9 +10,12 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+opengraph:
+  appId: 'https://www.facebook.com/completecontrolsinc/'
 layout_spectrum: 0.9341446333564818
 author:
   name: Ryan Lewis
   email: rlewis@completecontrolsinc.com
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8298034-7d55-4f8c-a0f4-c0fefba14b09.jpg'
 name: Complete Controls Inc.
 title: We give you Complete Control
