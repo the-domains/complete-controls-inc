@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We give you Complete Control]]></title>
+        <description><![CDATA[We give you Complete Control]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 31 May 2016 17:42:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Complete Controls, Inc. -Quality Industrial Control Panels]]></title>
+            <description><![CDATA[<article><h1>Complete Controls, Inc. -Quality Industrial Control Panels</h1><p>Complete Controls Inc. has been designing, programing, building, and installing quality custom, industrial grade, automation and process control panels in, and around, Fort Wayne Indiana since 1989. Complete Controls inc. is a UL 508A certified industrial control panel manufacturer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49b01185ef79916895382134486794fca07735c5.jpg"></article>]]></description>
+            <link>http://www.completecontrolsinc.com/</link>
+            <guid isPermaLink="false">b917a546-27b5-41ac-a966-8a25a75a2f98</guid>
+            <pubDate>Tue, 31 May 2016 17:42:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
