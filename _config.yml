@@ -1,18 +1,18 @@
-typography_spectrum: 0.6581261537503451
+typography_spectrum: 0.5557627433445305
 color:
-  brandStrength: 0.008637767052277923
-  lightness: 0.8967112766113132
-  saturation: 0.4672753722406924
-  rhythmicContrast: 0.12295210850425065
+  brandStrength: 0.326119213597849
+  lightness: 0.9313384729903191
+  saturation: 0.06786048109643161
+  rhythmicContrast: 0.6969416907522827
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 opengraph:
   appId: 'https://www.facebook.com/completecontrolsinc/'
-layout_spectrum: 0.9341446333564818
+layout_spectrum: 0.19038382079452276
 author:
   name: Ryan Lewis
   email: rlewis@completecontrolsinc.com
