@@ -6,12 +6,11 @@ color:
     - '#0E0D09'
     - '#7A7A78'
   brandStrength: 1
-  lightness: 0.602311
-  rhythmicContrast: 0.307028
+  lightness: 0.342905
+  rhythmicContrast: 0.409628
   saturation: 0.719257
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a68e6b-9153-4cd8-a916-3f9ed125711f.jpg'
-layout_spectrum: 0.18990273540839553
+layout_spectrum: 1
 name: Complete Controls Inc.
 opengraph:
-  appId: ''
-typography_spectrum: 0.720439
+  appId: 'https://www.facebook.com/completecontrolsinc/'
+typography_spectrum: 1
