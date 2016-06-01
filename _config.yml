@@ -1,24 +1,17 @@
-typography_spectrum: 0.03490697895176709
-content_rating:
-  adult: false
 color:
-  brandStrength: 0.24246629793196917
-  lightness: 0.6023118754383177
-  saturation: 0.7192573968786746
-  rhythmicContrast: 0.3070284293498844
   brandColors:
     - '#DC3522'
     - '#D9CB9E'
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
+  brandStrength: 0.24246629793196917
+  lightness: 0.6023118754383177
+  rhythmicContrast: 0.3070284293498844
+  saturation: 0.7192573968786746
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a68e6b-9153-4cd8-a916-3f9ed125711f.jpg'
+layout_spectrum: 0.18990273540839553
+name: Complete Controls Inc.
 opengraph:
   appId: ''
-layout_spectrum: 0.18990273540839553
-author:
-  name: Ryan Lewis
-  email: rlewis@completecontrolsinc.com
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8298034-7d55-4f8c-a0f4-c0fefba14b09.jpg'
-name: Complete Controls Inc.
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a68e6b-9153-4cd8-a916-3f9ed125711f.jpg'
-title: ''
+typography_spectrum: 0.720439
