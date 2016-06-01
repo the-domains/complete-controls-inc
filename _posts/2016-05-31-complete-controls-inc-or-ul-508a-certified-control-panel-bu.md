@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-01T13:36:53.530Z'
+datePublished: '2016-06-01T14:55:40.727Z'
+sourcePath: _posts/2016-05-31-complete-controls-inc-or-ul-508a-certified-control-panel-bu.md
 isBasedOnUrl: 'http://www.completecontrolsinc.com/control_panels.php'
 keywords:
   - panels
@@ -14,7 +15,7 @@ keywords:
   - complete
 related: []
 author: []
-dateModified: '2016-06-01T13:36:53.282Z'
+dateModified: '2016-06-01T14:55:40.505Z'
 title: 'Complete Controls, Inc. | UL 508A Certified Control Panel Builder in Fort Wayne, IN'
 app_links: []
 publisher:
@@ -24,8 +25,7 @@ publisher:
   domain: www.completecontrolsinc.com
 description: 'As a UL 508A certified industrial control panel builder, Complete Controls guarentees a safe, and functional automation, or process control panel.'
 inLanguage: en
-sourcePath: _posts/2016-05-31-complete-controls-inc-or-ul-508a-certified-control-panel-bu.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/baff8132-ac74-4285-8f98-02417d2c0b25.jpg" /><h1>Complete Controls, Inc. | UL 508A Certified Control Panel Builder in Fort Wayne, IN</h1><p>As a UL 508A certified industrial control panel builder, Complete Controls guarentees a safe, and functional automation, or process control panel.</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01851669-e22e-4e83-bfa3-04291c37a46f.jpg" /><h1>Complete Controls, Inc. | UL 508A Certified Control Panel Builder in Fort Wayne, IN</h1><p>As a UL 508A certified industrial control panel builder, Complete Controls guarentees a safe, and functional automation, or process control panel.</p></article>
