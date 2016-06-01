@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-01T13:36:57.233Z'
+datePublished: '2016-06-01T13:36:59.137Z'
 sourcePath: _posts/2016-05-31-complete-controls-inc-quality-industrial-control-panels.md
 isBasedOnUrl: 'http://www.completecontrolsinc.com/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - systems
 related: []
 author: []
-dateModified: '2016-06-01T13:36:56.950Z'
+dateModified: '2016-06-01T13:36:58.860Z'
 title: 'Complete Controls, Inc. -Quality Industrial Control Panels'
 app_links: []
 publisher:
@@ -25,7 +25,7 @@ publisher:
   domain: www.completecontrolsinc.com
 description: 'Complete Controls Inc. has been designing, programing, building, and installing quality custom, industrial grade, automation and process control panels in, and around, Fort Wayne Indiana since 1989. Complete Controls inc. is a UL 508A certified industrial control panel manufacturer.'
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
