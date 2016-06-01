@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-05-31T17:42:55.160Z'
+datePublished: '2016-06-01T13:32:34.079Z'
+sourcePath: _posts/2016-05-31-complete-controls-inc-quality-industrial-control-panels.md
 isBasedOnUrl: 'http://www.completecontrolsinc.com/'
 keywords:
   - controls
@@ -14,7 +15,7 @@ keywords:
   - systems
 related: []
 author: []
-dateModified: '2016-05-31T16:13:04.039Z'
+dateModified: '2016-06-01T13:32:33.856Z'
 title: 'Complete Controls, Inc. -Quality Industrial Control Panels'
 app_links: []
 publisher:
@@ -24,8 +25,7 @@ publisher:
   domain: www.completecontrolsinc.com
 description: 'Complete Controls Inc. has been designing, programing, building, and installing quality custom, industrial grade, automation and process control panels in, and around, Fort Wayne Indiana since 1989. Complete Controls inc. is a UL 508A certified industrial control panel manufacturer.'
 inLanguage: en
-starred: false
-sourcePath: _posts/2016-05-31-complete-controls-inc-quality-industrial-control-panels.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de7f3806-f7da-4854-8013-5bbc0506fa76.jpg" /><h1>Complete Controls, Inc. -Quality Industrial Control Panels</h1><p>Complete Controls Inc. has been designing, programing, building, and installing quality custom, industrial grade, automation and process control panels in, and around, Fort Wayne Indiana since 1989. Complete Controls inc. is a UL 508A certified industrial control panel manufacturer.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49b01185ef79916895382134486794fca07735c5.jpg" /><h1>Complete Controls, Inc. -Quality Industrial Control Panels</h1><p>Complete Controls Inc. has been designing, programing, building, and installing quality custom, industrial grade, automation and process control panels in, and around, Fort Wayne Indiana since 1989. Complete Controls inc. is a UL 508A certified industrial control panel manufacturer.</p></article>
