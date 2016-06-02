@@ -1,16 +1,16 @@
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#1A1915'
-    - '#E5322B'
-    - '#0E0D09'
-    - '#7A7A78'
-  brandStrength: 1
-  lightness: 0.342905
-  rhythmicContrast: 0.409628
-  saturation: 0.719257
-layout_spectrum: 0.3274098467081785
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  brandStrength: 0.3539264847058803
+  lightness: 0.222558228764683
+  rhythmicContrast: 0.33065836504101753
+  saturation: 0.6637517677154392
+layout_spectrum: 0.19470634148456156
 name: Complete Controls Inc.
 opengraph:
   appId: 'https://www.facebook.com/completecontrolsinc/'
-typography_spectrum: 0.36739933979697526
+typography_spectrum: 0.6645344083663076
