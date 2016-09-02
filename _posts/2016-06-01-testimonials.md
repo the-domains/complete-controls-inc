@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-01T17:03:38.982Z'
+datePublished: '2016-08-31T12:14:58.841Z'
+sourcePath: _posts/2016-06-01-testimonials.md
 isBasedOnUrl: 'http://www.completecontrolsinc.com/testimonials.php'
 keywords:
   - control
@@ -14,18 +15,21 @@ keywords:
   - panels
 related: []
 author: []
-dateModified: '2016-06-01T17:03:25.289Z'
+via: {}
+dateModified: '2016-08-31T12:14:58.371Z'
 title: Testimonials
 app_links: []
-publisher:
-  url: 'http://www.completecontrolsinc.com'
-  name: Completecontrolsinc
-  favicon: null
-  domain: www.completecontrolsinc.com
-description: '"We have been using Complete Controls for over 10 years now. We find their experience and creativeness in addressing problem areas in our plant to be one of our treasured assets by making us more profitable and competitive in our business ventures. .'
+publisher: {}
+description: >-
+  “We have been using Complete Controls for over 10 years now. We find their
+  experience and creativeness in addressing problem areas in our plant to be one
+  of our treasured assets by making us more profitable and competitive in our
+  business ventures. .  Not only do they help us make sound decisions they keep
+  us on budget and on time. There support has been superb; they really do care
+  about my business by showing support when I need it. Keep up the good work
+  guys.”
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-06-01-testimonials.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -33,13 +37,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Testimonials</h1></article>
+<article style=""><h1>Testimonials</h1><p>What customers say about Complete Controls…</p></article>
 
-**What customers say about Complete Controls...**  
-
-_"We have been using Complete Controls for over 10 years now. We find their experience and creativeness in addressing problem areas in our plant to be one of our treasured assets by making us more profitable and competitive in our business ventures.  
-.   
-Not only do they help us make sound decisions they keep us on budget and on time. There support has been superb; they really do care about my business by showing support when I need it. Keep up the good work guys."_
+_"We have been using Complete Controls for over 10 years now. We find their experience and creativeness in addressing problem areas in our plant to be one of our treasured assets by making us more profitable and competitive in our business ventures._  
+_. _  
+_Not only do they help us make sound decisions they keep us on budget and on time. There support has been superb; they really do care about my business by showing support when I need it. Keep up the good work guys."_
 
 **Mark A. Stine, Paramount Tube**
 
